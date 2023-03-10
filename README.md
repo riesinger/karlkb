@@ -4,13 +4,13 @@ The KarlKB is a wireless, split, 6x3+2 mechanical keyboard.
 It features:
 
 - nice!nano v2 microcontrollers (wireless, running [ZMK](https://github.com/riesinger/zmk-config))
-- pads & through holes for a JST battery connector
+- pads & through holes for a JST battery connector (or just solder it directly to the pads)
 - a power switch
 - a reset buttons
 - 3 rows with 6 keys each and 2 thumb keys per half
 - _no OLED_ ⚡
 - _no RGB anywhere_ ⚡️
-  \_ _no TRRS jacks_ 📶
+- _no TRRS jacks_ 📶
 
 It is in fact my first custom keyboard and is currently still **WIP**.
 
