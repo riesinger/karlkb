@@ -1,0 +1,16 @@
+{
+  "name": "karlkb",
+  "private": true,
+  "version": "1.0.0",
+  "description": "The KarlKB is a wireless, split, 6x3+2 mechanical keyboard",
+  "main": "config.yaml",
+  "scripts": {
+    "build": "npx ergogen ."
+  },
+  "keywords": [],
+  "author": "Pascal Riesinger",
+  "license": "MIT",
+  "dependencies": {
+    "ergogen": "^4.1.0"
+  }
+}
